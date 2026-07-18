@@ -3,7 +3,7 @@
 TianYan · 天眼
 
 
-<h3>一键自动化企业信息采集工具
+<h3 align="center">一键自动化企业信息采集工具
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)]()
 
