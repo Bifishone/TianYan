@@ -1,6 +1,6 @@
 
-
-<h1 align:"center"> TianYan · 天眼 </h1>
+<h1 align="center">
+TianYan · 天眼
 
 **一键自动化企业信息采集工具**
 
